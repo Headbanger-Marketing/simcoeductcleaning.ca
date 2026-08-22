@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://simcoeductcleaning.ca/sitemap-index.xml
