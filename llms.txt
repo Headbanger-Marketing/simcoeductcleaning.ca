@@ -1,2 +1,25 @@
 # Simcoe Duct Cleaning
-HVAC services in Ontario.
+
+> Simcoe Duct Cleaning is a local HVAC company serving Simcoe, Norfolk, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 290-7597  |  Email: contact@simcoeductcleaning.ca  |  Website: https://simcoeductcleaning.ca
+
+## Key pages
+
+- [Home](https://simcoeductcleaning.ca/): Simcoe Duct Cleaning homepage with service overview and FAQ
+- [About](https://simcoeductcleaning.ca/about/): About the company and service area
+- [Contact](https://simcoeductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://simcoeductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Simcoe, Ontario
+- [Dryer Vent Cleaning](https://simcoeductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Simcoe, Ontario
+- [Furnace & AC Cleaning](https://simcoeductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Simcoe, Ontario
+- [HRV & Ventilation Cleaning](https://simcoeductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Simcoe, Ontario
+- [Duct Sanitizing & Deodorizing](https://simcoeductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Simcoe, Ontario
+- [Duct Sealing & Repair](https://simcoeductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Simcoe, Ontario
+- [Commercial Duct Cleaning](https://simcoeductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Simcoe, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Simcoe are answered on the homepage.
